@@ -1,4 +1,3 @@
-[README2.md](https://github.com/user-attachments/files/28364879/README2.md)
 <div align="center">
 
 # SaintSpydr
