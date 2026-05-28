@@ -1,14 +1,10 @@
 <div align="center">
 
-```
- ____  _    ___ _   _ _____ ____  ______   ______  ____
-/ ___|| |  / _ \ \ | |_   _/ ___||  _ \ \ / /  _ \|  _ \
-\___ \| | | | | |  \| | | | \___ \| |_) \ V /| | | | |_) |
- ___) | |__| |_| | |\  | | |  ___) |  __/ | | | |_| |  _ <
-|____/|_____\___/|_| \_| |_| |____/|_|    |_|  \___/|_| \_\
-```
+# SaintSpydr
 
-### `Emmanuel` · software engineer · vibe coder · builder of things
+### software engineer · vibe coder · builder of things
+
+`Emmanuel` · Nigeria 🇳🇬 · self-taught · build-first
 
 [![GitHub followers](https://img.shields.io/github/followers/Saint-012?style=flat&color=222&labelColor=111&label=followers)](https://github.com/Saint-012)
 [![Profile views](https://komarev.com/ghpvc/?username=Saint-012&style=flat&color=222&labelColor=111)](https://github.com/Saint-012)
@@ -30,7 +26,7 @@ saint_spydr = {
 }
 ```
 
-I'm a self-taught software engineer who turns ideas into working products.
+I'm a self-taught software engineer who turns ideas into working products.  
 Bots, apps, platforms, games — if it can be built, I'm probably already thinking about it.
 
 ---
