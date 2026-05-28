@@ -18,7 +18,7 @@
 ```python
 saint_spydr = {
     "name":       "Emmanuel",
-    "alias":      ["Saint", "Spydr", "SaintSpydr"],
+    "alias":      ["Saint", "Spydr"],
     "location":   "Nigeria 🇳🇬",
     "approach":   "build-first. ship fast. figure it out.",
     "currently":  "working on Ghosttrace 👻",
